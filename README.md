@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi there 👋  <br>I'm a Third-Year Engineering student passionate about building impactful tech.<br><br>🚀 Currently building a **financial platform**  <br>🤖 AI enthusiast exploring machine learning & data-driven systems  <br>💻 Interested in fintech, data science, and scalable products  <br>📚 Always learning and shipping real-world projects  <br><br>I love turning ideas into products that solve real problems.<br><br>
 
 
